@@ -1,5 +1,11 @@
 # Welcome
 
+![](https://github-profile-trophy.vercel.app/?username=liannoi&margin-w=60)
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liannoi)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maksymliannoi)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCDTM_vqeIaCW-UlNNBBFKWA)
+
 In my opinion, this repository / file should serve as some kind of reference
 information about the developer's profile and the structure of his repositories.
 Thus, it will make life easier for HR, as they will be able to spend less time
