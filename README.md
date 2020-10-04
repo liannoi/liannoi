@@ -72,7 +72,7 @@ Prefix for naming repositories that are created while learning a new language /
 technology.
 
 - [Java](https://github.com/liannoi/learning-java)
-- [Docker & IoC](https://github.com/liannoi/learning-docker-ioc)
+- [~~Docker & IoC~~](https://github.com/liannoi/learning-docker-ioc)
 
 ## Exam
 
@@ -97,6 +97,7 @@ exam papers. Ideas for their implementation: were proposed by teachers, were
 homework that I wanted to do better than average. Or they are aggregate repos
 (those that internally link to others).
 
+- [Gallery](https://github.com/liannoi/gallery)
 - [Robotics World](https://github.com/liannoi/robotics-world)
 - [Fraction Calculator](https://github.com/liannoi/fraction-calculator)
 - [Music Player](https://github.com/liannoi/music-player)
