@@ -84,6 +84,7 @@ and learned. Can be considered as (pre-)examination work.
 Prefix for naming repositories that are created while learning a new language /
 technology.
 
+- ![](http://badges.github.io/stability-badges/dist/locked.svg) [Unity](https://github.com/liannoi/learning-unity)
 - ![](http://badges.github.io/stability-badges/dist/locked.svg) [Java](https://github.com/liannoi/learning-java)
 - ![](http://badges.github.io/stability-badges/dist/deprecated.svg) [~~Docker & IoC~~](https://github.com/liannoi/learning-docker-ioc)
 
@@ -139,6 +140,5 @@ homework that I wanted to do better than average. Or they are aggregate repos
 
 ### C#
 
-- [Rubik's Cube (Unity)](https://github.com/liannoi/rubiks-cube)
 - [Autocomplete](https://github.com/liannoi/autocomplete)
 - [Interview Product](https://github.com/liannoi/interview-product)
