@@ -16,7 +16,6 @@ more easily monitor the state of their profiles and repositories.
 
 **So, I try to follow the following non-vowel requirements for naming repositories:**
 
-- [Unity](#unity)
 - [Android](#android)
 - [API](#api)
 - [Sample](#sample)
@@ -24,12 +23,6 @@ more easily monitor the state of their profiles and repositories.
 - [Term papers](#term-papers)
 - [Exam](#exam)
 - [Unique naming](#unique-naming)
-
-## Unity
-
-![](http://badges.github.io/stability-badges/dist/locked.svg)
-
-- [Primitives](https://github.com/liannoi/unity-primitives)
 
 ## Android
 
@@ -125,6 +118,10 @@ homework that I wanted to do better than average. Or they are aggregate repos
 (those that internally link to others).
 
 ### [Decent Front-end](https://github.com/liannoi/decent-frontend)
+
+### Unity
+
+- [Rubik's Cube](https://github.com/liannoi/rubiks-cube)
 
 ### PHP
 
