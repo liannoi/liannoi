@@ -29,8 +29,6 @@ more easily monitor the state of their profiles and repositories.
 
 ![](http://badges.github.io/stability-badges/dist/locked.svg)
 
-- [Animator](https://github.com/liannoi/unity-animator)
-- [Animation](https://github.com/liannoi/unity-animation)
 - [Primitives](https://github.com/liannoi/unity-primitives)
 
 ## Android
