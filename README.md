@@ -122,7 +122,7 @@ homework that I wanted to do better than average. Or they are aggregate repos
 ### Unity
 
 - [Shooter](https://github.com/liannoi/shooter)
-- [Bots (MVC, Scriptable Objects)](https://github.com/liannoi/ai-bots)
+- [Bots (MVC)](https://github.com/liannoi/ai-bots)
 - [Rubik's Cube](https://github.com/liannoi/rubiks-cube)
 
 ### PHP
