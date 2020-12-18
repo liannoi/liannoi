@@ -3,6 +3,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=liannoi&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=liannoi&layout=compact)
 
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=liannoi&badges=3&show-avatar=false&width=425&style=--header-bg-color:%23000;--border-radius:10px)
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liannoi)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maksymliannoi)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCDTM_vqeIaCW-UlNNBBFKWA)
