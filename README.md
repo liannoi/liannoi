@@ -3,9 +3,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=liannoi&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=liannoi&layout=compact)
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liannoi)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maksymliannoi)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCDTM_vqeIaCW-UlNNBBFKWA)
+[![](https://img.shields.io/badge/CodersRank-4BA8B2?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/liannoi)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDTM_vqeIaCW-UlNNBBFKWA)
 
 In my opinion, this repository / file should serve as some kind of reference
 information about the developer's profile and the structure of his repositories.
