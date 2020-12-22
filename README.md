@@ -25,8 +25,6 @@ more easily monitor the state of their profiles and repositories.
 
 ## Android
 
-![](http://badges.github.io/stability-badges/dist/locked.svg)
-
 Prefix for naming repositories, which are projects for a deeper understanding of
 a specific topic, of development for Android platform.
 
@@ -44,8 +42,6 @@ a specific topic, of development for Android platform.
 - [SQLite](https://github.com/liannoi/android-sqlite)
 
 ## API
-
-![](http://badges.github.io/stability-badges/dist/experimental.svg)
 
 Prefix for naming repositories that are API / RESTful APIs. They can be freely
 deployed on your local machine or remote server and used.
@@ -66,18 +62,18 @@ deployed on your local machine or remote server and used.
 Prefix for naming repositories that are a definite summary of what has been done
 and learned. Can be considered as (pre-)examination work.
 
-- ![](http://badges.github.io/stability-badges/dist/locked.svg) [Android](https://github.com/liannoi/sample-android)
-- ![](http://badges.github.io/stability-badges/dist/locked.svg) [React](https://github.com/liannoi/sample-react)
-- ![](http://badges.github.io/stability-badges/dist/locked.svg) [Angular](https://github.com/liannoi/sample-angular)
-- ![](http://badges.github.io/stability-badges/dist/deprecated.svg) [~~ASP.NET MVC~~](https://github.com/liannoi/sample-aspnet-mvc)
+- [Android](https://github.com/liannoi/sample-android)
+- [React](https://github.com/liannoi/sample-react)
+- [Angular](https://github.com/liannoi/sample-angular)
+- [~~ASP.NET MVC~~](https://github.com/liannoi/sample-aspnet-mvc)
 
 ## Learning
 
 Prefix for naming repositories that are created while learning a new language /
 technology.
 
-- ![](http://badges.github.io/stability-badges/dist/locked.svg) [Java](https://github.com/liannoi/learning-java)
-- ![](http://badges.github.io/stability-badges/dist/deprecated.svg) [~~Docker & IoC~~](https://github.com/liannoi/learning-docker-ioc)
+- [Java](https://github.com/liannoi/learning-java)
+- [~~Docker & IoC~~](https://github.com/liannoi/learning-docker-ioc)
 
  ## Term Papers
 
@@ -85,13 +81,11 @@ Prefix for naming my term papers. Works in which it is necessary in a fairly
 short period of time to summarize the technologies learned and the knowledge
 gained.
 
-- ![](http://badges.github.io/stability-badges/dist/locked.svg) [Web Chat](https://github.com/liannoi/web-chat)
-- ![](http://badges.github.io/stability-badges/dist/deprecated.svg) [~~Team Project~~](https://github.com/liannoi/team-project)
-- ![](http://badges.github.io/stability-badges/dist/locked.svg) [Testing System](https://github.com/liannoi/testing-system)
+- [Web Chat](https://github.com/liannoi/web-chat)
+- [~~Team Project~~](https://github.com/liannoi/team-project)
+- [Testing System](https://github.com/liannoi/testing-system)
 
 ## Exam
-
-![](http://badges.github.io/stability-badges/dist/locked.svg)
 
 Prefix for naming the repositories that are my exam papers done at Computer
 Academy STEP.
@@ -108,8 +102,6 @@ Academy STEP.
 - [WinForms](https://github.com/liannoi/exam-winforms)
 
 ## Unique naming
-
-![](http://badges.github.io/stability-badges/dist/locked.svg)
 
 Unique names for repositories aren't tied to the subject being studied and aren't
 exam papers. Ideas for their implementation: were proposed by teachers, were
