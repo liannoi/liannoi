@@ -1,7 +1,7 @@
 # Welcome
 
-![](https://github-readme-stats.vercel.app/api?username=liannoi&show_icons=true&count_private=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liannoi&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=liannoi&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=liannoi&layout=compact)
 
 [![](https://img.shields.io/badge/CodersRank-4BA8B2?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/liannoi)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDTM_vqeIaCW-UlNNBBFKWA)
