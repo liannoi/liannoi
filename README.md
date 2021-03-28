@@ -23,6 +23,10 @@ more easily monitor the state of their profiles and repositories.
 - [Exam](#exam)
 - [Unique naming](#unique-naming)
 
+## WLODZIMIERZ
+
+My [thesis](https://github.com/liannoi/wlodzimierz) at STEP Computer Academy, assessed by the commission at 12/12 points.
+
 ## Android
 
 Prefix for naming repositories, which are projects for a deeper understanding of
