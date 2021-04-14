@@ -21,11 +21,12 @@ more easily monitor the state of their profiles and repositories.
 - [Learning](#learning)
 - [Term papers](#term-papers)
 - [Exam](#exam)
+- [Interview](#interview)
 - [Unique naming](#unique-naming)
 
 ## WLODZIMIERZ
 
-My [thesis](https://github.com/liannoi/wlodzimierz) at STEP Computer Academy, assessed by the commission at 12/12 points.
+My [thesis](https://github.com/liannoi/wlodzimierz) at Computer Academy STEP, assessed by the commission at 12/12 points.
 
 ## Android
 
@@ -105,6 +106,15 @@ Academy STEP.
 - [Windows Presentation Foundation](https://github.com/liannoi/exam-wpf)
 - [WinForms](https://github.com/liannoi/exam-winforms)
 
+## Interview
+
+Prefix for naming jobs, the main purpose of which was to complete the terms of
+reference received during interviews.
+
+- [Lifetime Collection](https://github.com/liannoi/interview-lifetime-collection)
+- [Autocomplete](https://github.com/liannoi/autocomplete)
+- [~Product~](https://github.com/liannoi/interview-product)
+
 ## Unique naming
 
 Unique names for repositories aren't tied to the subject being studied and aren't
@@ -130,8 +140,3 @@ homework that I wanted to do better than average. Or they are aggregate repos
 - [Fraction Calculator](https://github.com/liannoi/fraction-calculator)
 - [Music Player](https://github.com/liannoi/music-player)
 - [Weather Forecast](https://github.com/liannoi/weather-forecast)
-
-### C#
-
-- [Autocomplete](https://github.com/liannoi/autocomplete)
-- [Interview Product](https://github.com/liannoi/interview-product)
