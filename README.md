@@ -56,7 +56,7 @@ deployed on your local machine or remote server and used.
 | [Shop ADO](https://github.com/liannoi/api-shop-ado)         | Classic RESTful Web API implemented in CQRS architecture.                                   | No   | Yes   | Yes  |
 | [Many-to-many](https://github.com/liannoi/api-many-to-many) | Solving the problem of working with a many-to-many relationship with Entity Framework Core. | No   | Yes   | Yes  |
 
-<img align="right" height="1000" src="https://metrics.lecoq.io/liannoi?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&followup=1&people=1&stars=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FKiev">
+<img align="right" height="1500" src="https://metrics.lecoq.io/liannoi?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&followup=1&people=1&stars=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FKiev">
 
 ## Sample
 
