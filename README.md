@@ -1,10 +1,4 @@
-# Welcome
-
-![](https://github-readme-stats.vercel.app/api?username=liannoi&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liannoi&layout=compact)
-
-[![](https://img.shields.io/badge/CodersRank-4BA8B2?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/liannoi)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDTM_vqeIaCW-UlNNBBFKWA)
+![Metrics](https://metrics.lecoq.io/liannoi?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&followup=1&people=1&stars=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FKiev)
 
 In my opinion, this repository / file should serve as some kind of reference
 information about the developer's profile and the structure of his repositories.
